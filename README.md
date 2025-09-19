@@ -2,58 +2,42 @@
 
 <p align="center">
   <b>Estudiante · Aprendiendo desarrollo y diseño digital</b><br/>
-  <i>Construyendo proyectos que combinan creatividad y tecnología</i>
+  <i>Proyectos bajo el universo <b>Tempesta</b></i>
 </p>
 
 ---
 
 ## 🌐 Sobre mí
 - 📚 En constante aprendizaje de programación y diseño.  
-- 🚀 Impulsando proyectos bajo **Tempesta Company**.  
-- 🎯 Me interesa crear webs modernas, rebrandings y comunidades online.  
+- 🚀 Creando proyectos con enfoque en **webs modernas**, **rebrandings** y **comunidades online**.  
+- 🎯 Bajo el paraguas de **Tempesta Company**:  
+  - 🖥️ **TempestaSolutions** → Agencia digital para empresas.  
+  - 🎮 **TempestaRP** → Servidor de roleplay en FiveM (en desarrollo).  
 
 ---
 
-## 🚀 Proyectos principales
-
-### 🖥️ TempestaSolutions
-Agencia digital para empresas:  
-Identidad visual, rebrandings completos, páginas web y promoción online.
-
----
-
-### 🎮 TempestaRP
-Servidor de roleplay en **FiveM**, aún en desarrollo, con sistemas propios y visión de comunidad.
-
----
-
-### 🏢 Tempesta Company S.L.
-El paraguas de todos mis proyectos.  
-📌 Objetivo: constituirse como empresa.
-
----
-
-## ✨ Actualmente
-- 🔹 Aprendiendo nuevas tecnologías de desarrollo.  
-- 🔹 Experimentando con interfaces y efectos visuales.  
-- 🔹 Creando la base de mi futuro ecosistema digital.  
+## 🛠️ Tecnologías que estoy aprendiendo
+<p align="center">
+  <img src="https://img.shields.io/badge/Lua-FiveM-FF5500?style=for-the-badge&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
 
 ---
 
 ## 📬 Contacto
-- 📧 **info@tempesta.es**  
-- 🕒 Lunes a Viernes · 15:00–21:00 CET  
-
----
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Aprendiendo-Actitud%20constante-8A2BE2?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tempesta-Solutions-00FFFF?style=for-the-badge&logoColor=black" />
-  <img src="https://img.shields.io/badge/Roleplay-FiveM-9400D3?style=for-the-badge&logoColor=white" />
+  <a href="mailto:info@tempesta.es">
+    <img src="https://img.shields.io/badge/📧%20info@tempesta.es-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>⚡ "Construir hoy, para destacar mañana." ⚡</i>
+  <img src="https://img.shields.io/badge/⚡-Tempesta%20Solutions-00FFFF?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/⚡-TempestaRP-9400D3?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/⚡-Tempesta%20Company-8A2BE2?style=for-the-badge&logoColor=white" />
 </p>
