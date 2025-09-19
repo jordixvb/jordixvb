@@ -35,9 +35,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://img.shields.io/badge/⚡-Tempesta%20Solutions-00FFFF?style=for-the-badge&logoColor=black" />
-  <img src="https://img.shields.io/badge/⚡-TempestaRP-9400D3?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/⚡-Tempesta%20Company-8A2BE2?style=for-the-badge&logoColor=white" />
-</p>
