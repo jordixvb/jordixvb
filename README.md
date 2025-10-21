@@ -1,33 +1,23 @@
-<h1 align="center">⚡ Bienvenido a mi perfil ⚡</h1>
-
+## 🛠️ Tecnologías que manejo
 <p align="center">
-  <b>Estudiante en proceso de aprendizaje</b><br/>
-  <i>Proyectos en el ecosistema <b>Tempesta</b></i>
-</p>
-
----
-
-## 🌐 Sobre mí
-- 👨‍💻 Programador novato en aprendizaje.  
-- 🚀 Creando proyectos futuros.  
-- 🔥 **Solana** & **XRP** on fire 🚀  
-
----
-
-## 🛠️ Tecnologías que estoy aprendiendo
-<p align="center">
-  <img src="https://img.shields.io/badge/Lua-FiveM-FF5500?style=for-the-badge&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/HeidiSQL-1E90FF?style=for-the-badge&logo=database&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lua-FiveM-FF5500?style=for-the-badge&logo=lua&logoColor=white" />
 </p>
 
 ---
 
 ## 📬 Contacto
 <p align="center">
-  <a href="mailto:info@tempesta.es">
+  <a href="mailto:jordi@tempesta.es">
     <img src="https://img.shields.io/badge/📧%20info@tempesta.es-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
