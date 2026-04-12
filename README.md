@@ -2,79 +2,147 @@
 
 ## 🛠️ Technologies & Tools
 
-### **Backend & Server Development**
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Lua-FiveM-FF5500?style=for-the-badge&logo=lua&logoColor=white" alt="Lua FiveM" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="AWS" />
-</p>
+<table>
+  <tr>
+    <td colspan="2" align="center"><b>Backend Development</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Lua%20FiveM-FF5500?style=flat-square&logo=lua&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
-### **Frontend & UI Development**
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-</p>
+<table>
+  <tr>
+    <td colspan="3" align="center"><b>Frontend Development</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
-### **E-Commerce & Payment Solutions**
-<p align="center">
-  <img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
-</p>
+<table>
+  <tr>
+    <td colspan="2" align="center"><b>Database & Infrastructure</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/HeidiSQL-1E90FF?style=flat-square&logo=database&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
-### **Database & Server Management**
-<p align="center">
-  <img src="https://img.shields.io/badge/HeidiSQL-1E90FF?style=for-the-badge&logo=database&logoColor=white" alt="HeidiSQL" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
-</p>
+<table>
+  <tr>
+    <td colspan="3" align="center"><b>E-Commerce & Business</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Shopify-96BF48?style=flat-square&logo=shopify&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
-### **Deployment & Hosting**
-<p align="center">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-</p>
+<table>
+  <tr>
+    <td colspan="2" align="center"><b>Design & Creativity</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat-square&logo=adobepremiere&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
-### **Design & Media**
-<p align="center">
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
-  <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" alt="Premiere Pro" />
-</p>
-
-### **Community & Integration**
-<p align="center">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### **TempestaRP**
-**FiveM Server Development (Spain)**  
-Advanced roleplay server currently in development, built with cutting-edge FiveM technologies and custom Lua scripts.
+<div align="center">
 
-🔗 [fivem.tempesta.es](https://fivem.tempesta.es)  
-📅 In Development since 2026
+### TempestaRP  
+**Advanced FiveM Server**  
+*Spain | In Development*
 
----
+```
+Custom Lua Scripts • Role-Play Economy • Community Driven
+```
 
-### **EVOLVE MEDIA DIGITAL**
-**Digital Marketing Agency (Spain)**  
-Full-service digital marketing agency specializing in web development, e-commerce solutions, and online presence management.
-
-🔗 [evolvemd.es](https://evolvemd.es)  
-📅 Operating since 2024
+[Visit Server →](https://fivem.tempesta.es)
 
 ---
 
-## 📬 Contact
+### EVOLVE MEDIA DIGITAL  
+**Digital Marketing Agency**  
+*Spain | Since 2024*
 
-<p align="center">
-  <a href="mailto:jordi@evolvemd.es">
-    <img src="https://img.shields.io/badge/📧%20jordi@evolvemd.es-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+```
+Web Development • E-Commerce • Digital Strategy
+```
+
+[Visit Agency →](https://evolvemd.es)
+
+</div>
+
+---
+
+## 📬 Get in Touch
+
+<div align="center">
+
+**Email:** [jordi@evolvemd.es](mailto:jordi@evolvemd.es)
+
+</div>
 
 ---
