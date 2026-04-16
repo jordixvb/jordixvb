@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[evolvemd.es](https://evolvemd.es) • [fivem.tempesta.es](https://fivem.tempesta.es)
+[tempesta.es](https://tempesta.es) • [roleplay.tempesta.es](https://roleplay.tempesta.es) • [evolvemd.es](https://evolvemd.es)
 
 </div>
 
@@ -10,13 +10,16 @@
 
 ## 🚀 About Me
 
-* 🏢 **CEO of TempestaRP** — Advanced FiveM server in development, powered by custom Lua scripts and community-driven economy.
-* 🏢 **Founder of EVOLVE MEDIA DIGITAL** — Digital marketing agency specializing in web development, e-commerce, and strategic online presence.
+I'm a **digital entrepreneur and FiveM project leader** passionate about building innovative solutions at the intersection of gaming, technology, and artificial intelligence.
+
+* 🏛️ **Founder of TEMPESTA GROUP** — Leading a thriving organization dedicated to developing cutting-edge digital projects for the FiveM community. I manage multiple initiatives focused on creating advanced roleplay ecosystems and fostering collaborative growth.
+* 🎮 **CEO of TempestaRP** — Spearheading an advanced FiveM roleplay server in development, powered by custom Lua scripts and community-driven economy. Part of TEMPESTA GROUP ecosystem.
+* 🏢 **Founder of EVOLVE MEDIA DIGITAL** — Digital marketing agency (currently in transition). Planning a strategic rebranding to better reflect new direction and services.
+* 🤖 **AI Integration & Automation Specialist** — Actively working with generative AI models to enhance digital products, streamline workflows, and create intelligent solutions that drive innovation.
 * 💻 Building modern web platforms with **Next.js, React, Node.js** — focused on user experience, performance, and security.
 * 🔐 Learning and experimenting with **serverless architectures, automation, and DevOps best practices**.
-* 🎮 Exploring **FiveM development**, **Lua scripting**, and game server optimization.
 * 🤝 Open to collaborating with teams seeking **full-stack solutions, digital transformation, or strategic growth**.
-* 💬 Ask me about **full-stack development, AI generative models, hardening systems, or digital growth strategies**.
+* 💬 Ask me about **full-stack development, AI generative models, FiveM project leadership, hardening systems, or digital business growth strategies**.
 
 ---
 
@@ -38,9 +41,10 @@
 
 ## 🎯 Featured Projects
 
-* **[TempestaRP](https://fivem.tempesta.es)** — Advanced FiveM roleplay server with custom Lua scripts, economy systems, and community features.
+* **[TempestaRP](https://roleplay.tempesta.es)** — Advanced FiveM roleplay server with custom Lua scripts, economy systems, and community features.
+* **[TEMPESTA GROUP](https://tempesta.es)** — Digital organization managing FiveM community projects and initiatives.
 * **[EVOLVE MEDIA DIGITAL](https://evolvemd.es)** — Digital marketing agency focused on web development, e-commerce, and digital growth strategies.
-* **[Polymarket Screener Tool](https://github.com)** — Prediction market analyzer using Kelly Criterion for intelligent position sizing.
+* **[Polymarket Screener Tool](https://github.com/jordixvb/pm-screener-tool)** — Prediction market analyzer using Kelly Criterion for intelligent position sizing.
 
 ---
 
